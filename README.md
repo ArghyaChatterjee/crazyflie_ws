@@ -2,7 +2,7 @@
 This repository is part of my class project at Intelligent Systems and Robotics department in UWF.
 
 ![Alt Text](media/crazyflie_chatgpt.png)
-
+![Alt Text](media/crazyflie_chatgpt2.png)
 All the experiments were performed & executed in python & ROS. 
 
 ![Alt Text](media/optitrack.png)
