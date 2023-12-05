@@ -153,4 +153,4 @@ For more detailed information, refer to the full PDF document on working with Cr
 3. https://github.com/bitcraze/crazyflie-clients-python
 4. https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/api/cflib/positioning/motion_commander/
 
-Speicial thanks for Raymond Stevens for providing some of his documents & guidance during the project.
+Speicial thanks to Raymond Stevens for providing some of his documents & guidance during the project.
