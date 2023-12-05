@@ -3,7 +3,7 @@ This repository is part of my class project (Aerial Robotics - EEL 6606) at Inte
 
 <!-- First Row -->
 <p align="center">
-  <img src="media/crazyflie.png" width="45%" />
+  <img src="media/crazyflie.jpeg" width="45%" />
 </p>
 
 All the experiments were performed & executed in python & ROS. 
@@ -23,12 +23,12 @@ The diagram visually represents a motion capture network setup featuring a centr
   <img src="media/crazyflie_chatgpt.png" width="22%" />
   <img src="media/crazyflie_chatgpt2.png" width="22%" /> 
   <img src="media/crazyflie_chatgpt3.png" width="22%" />
-  <img src="media/crazyflie_chatgpt4.png" width="22%" />
 </p>
 
 <!-- Third Row -->
 <p align="center">
-  <img src="media/crazyflie_chatgpt5.png" width="25%" />
+  <img src="media/crazyflie_chatgpt4.png" width="22%" />
+  <img src="media/crazyflie_chatgpt5.png" width="22%" />
 </p>
 
 ## Crazyflie API
@@ -75,7 +75,7 @@ python3 -m cfclient.gui
 <!-- Second Row -->
 <p align="center">
   <img src="media/crazyflie2.jpeg" width="45%" />
-  <img src="media/crazyflie3.jpeg" width="45%" />
+  <img src="media/crazyflie3.jpeg" width="50%" />
 </p>
 
 ## Crazyflie Movement Commands
