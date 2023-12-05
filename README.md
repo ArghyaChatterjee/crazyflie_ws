@@ -1,5 +1,5 @@
 # crazyflie_ws
-This repository is part of my class project at Intelligent Systems and Robotics department in UWF.
+This repository is part of my class project (Aerial Robotics - EEL 6606) at Intelligent Systems and Robotics department in UWF.
 
 <!-- First Row -->
 <p align="center">
