@@ -75,7 +75,7 @@ python3 -m cfclient.gui
 <!-- Second Row -->
 <p align="center">
   <img src="media/crazyflie2.jpeg" width="45%" />
-  <img src="media/crazyflie3.jpeg" width="50%" />
+  <img src="media/crazyflie3.jpeg" width="48%" />
 </p>
 
 ## Crazyflie Movement Commands
