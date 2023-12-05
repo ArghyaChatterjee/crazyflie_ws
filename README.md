@@ -1,9 +1,23 @@
 # crazyflie_ws
 This repository is part of my class project at Intelligent Systems and Robotics department in UWF.
 
-![Alt Text](media/crazyflie_chatgpt.png)
-![Alt Text](media/crazyflie_chatgpt2.png)
-![Alt Text](media/crazyflie_chatgpt3.png)
+<!-- First Row -->
+<p align="center">
+  <img src="media/crazyflie_chatgpt.png" width="45%" />
+  <img src="media/crazyflie_chatgpt2.png" width="45%" /> 
+</p>
+
+<!-- Second Row -->
+<p align="center">
+  <img src="media/crazyflie_chatgpt3.png" width="45%" />
+  <img src="media/crazyflie_chatgpt4.png" width="45%" />
+</p>
+
+<!-- Third Row -->
+<p align="center">
+  <img src="media/crazyflie_chatgpt5.png" width="45%" />
+</p>
+
 All the experiments were performed & executed in python & ROS. 
 
 ![Alt Text](media/optitrack.png)
