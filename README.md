@@ -20,7 +20,8 @@ This repository is part of my class project at Intelligent Systems and Robotics 
 
 All the experiments were performed & executed in python & ROS. 
 
-The diagram visually represents a motion capture network setup featuring a central network switch connected to two PCs. One PC operates on Ubuntu with ROS, and the other runs Windows with Motive software. Seven OptiTrack Prime 17W cameras are connected to the network switch, indicating an expanded motion capture setup compared to the original four cameras. The connections are displayed through a LAN, with dotted lines to the PCs and solid lines to the cameras, illustrating a professional and balanced network configuration suitable for motion capture applications.
+## Crazyflie Position Tracking with Opti Track
+The diagram visually represents a motion capture network setup featuring a central network switch connected to two PCs. One PC operates on Ubuntu with ROS, and the other runs Windows with Motive software. Seven OptiTrack Prime 17W cameras are connected to the network switch, indicating an expanded motion capture setup compared to the original four cameras. The connections are displayed through a LAN, with dotted lines to the PCs and solid lines to the cameras, illustrating a professional and balanced network configuration suitable for motion capture applications for position tracking of the crazyflie.
 
 <!-- First Row -->
 <p align="center">
@@ -28,7 +29,7 @@ The diagram visually represents a motion capture network setup featuring a centr
   <img src="media/optitrack1.png" width="32%" /> 
 </p>
 
-## Overview
+## Crazyflie API
 This README provides instructions for working with Crazyflies on Ubuntu, including running the Crazyflie program, understanding the Crazyflie tutorial, and various commands for controlling the Crazyflie drone.
 
 ## Running the Crazyflie Program
