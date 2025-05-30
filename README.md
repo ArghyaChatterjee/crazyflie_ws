@@ -1,4 +1,4 @@
-# crazyflie_ws
+# crazyflie ros
 This repository is part of my class project (Aerial Robotics - EEL 6606) at Intelligent Systems and Robotics department in UWF.
 
 <!-- First Row -->
